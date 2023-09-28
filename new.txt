@@ -1,0 +1,1 @@
+new.txt file created in feature1 branch and need to be stagged and committed.
